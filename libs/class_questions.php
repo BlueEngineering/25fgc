@@ -1,17 +1,16 @@
-<?PHP
+<?php
 /**
  * Class to organisation the questions.
  *
  * @author		Tim Jaap <tim.jaap@mailbox.tu-berlin.de>
- * @version		0.1 (beta)
- * @last change	2014-08-29
+ * @version		0.1 (beta) / last edit: 2014-10-23
  **/
 
 class questions {
-	// attributes
+	// ----- class attributes -----
 	
-	// constructor
+	// ----- constructor -----
 	
-	// methods
+	// ----- class methods -----
 }
 ?>

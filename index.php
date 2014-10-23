@@ -1,14 +1,38 @@
+<?php
+/**
+ * 25 question web application migration based on jQuery mobile.
+ * 
+ * @author		Tim Jaap <tim.jaap@mailbox.tu-berlin.de>
+ * @version		0.1 (beta) / last edit: 2014-10-23
+ **/
+
+//including settings
+require_once( 'settings.php' );
+
+//including classes
+require_once( $_LIBPATH . 'class_geodata.php' );
+require_once( $_LIBPATH . 'class_node.php' );
+require_once( $_LIBPATH . 'class_edge.php' );
+require_once( $_LIBPATH . 'class_questions.php' );
+require_once( $_LIBPATH . 'class_graph.php' );
+require_once( $_LIBPATH . 'class_buildings.php' );
+
+//including initalisation
+require_once('init.php' );
+?>
 <!DOCTYPE html>
 <html>
  <head>
   <title>25 Fragen Geocaching Web-App</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" />
-  <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
-  <script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script>
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <!--link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css" /-->
+  <!--script src="http://code.jquery.com/jquery-1.7.1.min.js"></script-->
+  <!--script src="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.js"></script-->
   <!--script src="scripts/tfqgc.js"></script-->
  </head>
-
+<?php
+/*
  <body>
   <div data-role="page" id="infoPage" data-theme="b">
 
@@ -64,4 +88,5 @@
 
   </div>
  </body>
+*/  ?>
 </html>

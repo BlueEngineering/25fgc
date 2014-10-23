@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<nodelist>
+	<node>
+		<id>1001</id>
+		<name>Station 1</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>99c5e07b4d5de9d18c350cdf64c5aa3d.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Gehe zu der großen Säule die einst den Eingangsbereich der Technischen Universität zierte.]]>
+			</description>
+			<note>
+				<![CDATA[Man sieht sie sowohl von der Rückseite des H-, als auch des C-Gebäudes aus.]]>
+			</note>
+		</text>
+		<quiz>
+			<minAnsers></minAnsers>
+			<code>99c5e07b4d5de9d18c350cdf64c5aa3d</code>
+			<questionmf>
+				<item nr="1"><![CDATA[]]></item>
+				<item nr="2"><![CDATA[]]></item>
+			</questionmf>
+			<tasks>
+				<question>
+					<type></type>
+					<text><![CDATA[]]></text>
+					<anwsers>
+						<item><![CDATA[]]></item>
+						<item><![CDATA[]]></item>
+					</anwsers>
+					<notes>
+						<item><![CDATA[]]></item>
+						<item><![CDATA[]]></item>
+					</notes>
+				</question>
+			</tasks>
+		</quiz>
+	</node>
+	
+	<node>
+		<id>1002</id>
+		<name>Station 2</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>b9228e0962a78b84f3d5d92f4faa000b.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Einst schmückten pompöse Gebäude und Gänge den Campus. An einem übrig gebliebenen Ruinenstück in der Nähe der großen Säule wacht das tragende Kind über den nächsten Hinweis.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Es befindet sich auf dem Campus hinter dem östlichen Teil des Hauptgebäudes.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>b9228e0962a78b84f3d5d92f4faa000b</code>
+	</node>
+	<node>
+		<id>1003</id>
+		<name>Station 3</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>fde9264cf376fffe2ee4ddf4a988880d.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Der dritte Kubus, direkt vor dem Eingang der VW Bibliothek führt zur nächsten Frage.]]>
+			</description>
+			<note>
+				<![CDATA[]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>fde9264cf376fffe2ee4ddf4a988880d</code>
+	</node>
+	<node>
+		<id>1004</id>
+		<name>Station 4</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>cc1aa436277138f61cda703991069eaf.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Über den nächsten Hinweis wacht der Adler am Fuße des Prometheus über dem Brunnen zwischen UdK und Mensa.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Der Weg führt bis zur Hardenbergstr. hinaus.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>cc1aa436277138f61cda703991069eaf</code>
+	</node>
+	<node>
+		<id>1005</id>
+		<name>Station 5</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>bc6dc48b743dc5d013b1abaebd2faed2.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Auch auf Schienen kann durch Weichen und Signale vom gradlinigen Wege abgewichen werden. Ein Andreaskreuz führt zur nächsten Frage.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Ampel Nr. 5 direkt beim TU-SpStation.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>bc6dc48b743dc5d013b1abaebd2faed2</code>
+	</node>
+	<node>
+		<id>1006</id>
+		<name>Station 6</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>7f1de29e6da19d22b51c68001e7e0e54.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Gleich hinter dem Gedenksein zu Ehren des Begründers von Zusammenhang zwischen Technik, Wissenschaft und Leben, Franz Reuleaux befindet sich der nächste Hinweis.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Mittig hinter dem Hauptgebäude.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>7f1de29e6da19d22b51c68001e7e0e54</code>
+	</node>
+	<node>
+		<id>1007</id>
+		<name>Station 7</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>9fe8593a8a330607d76796b35c64c600.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Noch heute erinnert eine Gedenktafel an den Erfinder des ersten Computers an der TU Berlin. Der nächste Hinweis befindet sich oben, gegenüber der Gedenktafel zu Konrad Zuse.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Der Weg führt vom Campuscenter vorbei am Akademischen Auslandsamt in Richtung Allgemeine Studienberatung.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>9fe8593a8a330607d76796b35c64c600</code>
+	</node>
+	<node>
+		<id>1008</id>
+		<name>Station 8</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>43feaeeecd7b2fe2ae2e26d917b6477d.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Der Weg zur nächsten Frage führt in den Lichthof hinter die Statue von Nike von Samothrake.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Es verbirgt sich im Grünen.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>43feaeeecd7b2fe2ae2e26d917b6477d</code>
+	</node>
+	<node>
+		<id>1009</id>
+		<name>Station 9</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>ab88b15733f543179858600245108dd8.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Betrachte die Gedenktafel vor dem Büro des Präsidenten und schaue dir den Heizkörper in dem Bereich genauer an.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Das Büro des Präsidenten befinden sich im H 1030.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>ab88b15733f543179858600245108dd8</code>
+	</node>
+	<node>
+		<id>1010</id>
+		<name>Station 10</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>577ef1154f3240ad5b9b413aa7346a1e.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Auf der "Zukunft der Metropole" verbirgt sich der Weg zur nächsten Frage unter einem Bayrischen Automobil.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Ein großes Bild im östlichen Treppenaufgang vom Lichthof aus.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>577ef1154f3240ad5b9b413aa7346a1e</code>
+	</node>
+	<node>
+		<id>1011</id>
+		<name>Station 11</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>caf1a3dfb505ffed0d024130f58c5cfa.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Im Tonraum des westlichen Treppenaufganges vom Lichthof aus verbirgt sich der nächste Hinweis. Schaue bei schönen Klängen stets zu dem Licht.]]>
+			</description>
+			<note>
+				<![CDATA[]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>caf1a3dfb505ffed0d024130f58c5cfa</code>
+	</node>
+	<node>
+		<id>1012</id>
+		<name>Station 12</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>07a96b1f61097ccb54be14d6a47439b0.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Zur nächsten Frage geht es über den Hinterausgang des Horst Wagon Hörsaals. Betrachte stets auch die Räume zwischen und neben dem Offensichtlichen.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Raum H 1012 (Schaukästen).]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>07a96b1f61097ccb54be14d6a47439b0</code>
+	</node>
+	<node>
+		<id>1013</id>
+		<name>Station 13</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>f85454e8279be180185cac7d243c5eb3.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Noch heute erinnert eine Gedenktafel an Herman Föttinger. Zur nächsten Frage geht es über das Geländer zur Tafel.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Treppenaufgang im EB Gebäude Höhe Brücke zum Hauptgebäude.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>f85454e8279be180185cac7d243c5eb3</code>
+	</node>
+	<node>
+		<id>1014</id>
+		<name>Station 14</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>9188905e74c28e489b44e954ec0b9bca.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Eine Flugzeugturbine führt zur nächsten Frage. Der Schlüssel befindet sich rechts neben dem Eingang.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Vor dem W-Gebäude an der Straße des 17. Juni.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>9188905e74c28e489b44e954ec0b9bca</code>
+	</node>
+	<node>
+		<id>1015</id>
+		<name>Station 15</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>a1140a3d0df1c81e24ae954d935e8926.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Die Dynamomaschine von Werner von Siemens führt zusammen mit der Statue des Begründers der Elektrotechnik zu der nächsten Frage.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Neben dem Eingang zum Mathematikgebäude.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>a1140a3d0df1c81e24ae954d935e8926</code>
+	</node>
+	<node>
+		<id>1016</id>
+		<name>Station 16</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>0a09c8844ba8f0936c20bd791130d6b6.jpg</img>
+		<text>
+			<description>
+				<![CDATA[An einem Hinweisschild am Ufer des Landwehrkanals, stromabwärts entlang des Süd-Campus befindet sich der Schlüssel zur nächsten Frage.]]>
+			</description>
+			<note>
+				<![CDATA[Hinweis: Gegenüber des Salzufer Nr. 6, hinter dem E-N Gebäude.]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>0a09c8844ba8f0936c20bd791130d6b6</code>
+	</node>
+	<node>
+		<id>1017</id>
+		<name>Station 17</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>470e7a4f017a5476afb7eeb3f8b96f9b.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Langsam aber sicher geht es zum Ziel! Die nächste Frage verbirgt sich im Foyer des W-Gebäudes, der Weg dStationhin führt über den idyllischen Nord-Campus.]]>
+			</description>
+			<note>
+				<![CDATA[]]>
+			</note>
+		</text>
+		<minAnsers></minAnsers>
+		<code>470e7a4f017a5476afb7eeb3f8b96f9b</code>
+	</node>
+	<node>
+		<id>1018</id>
+		<name>Station 18</name>
+		<location>
+			<geodata>
+				<longitude></longitude>
+				<latitude></latitude>
+			</geodata>
+		</location>
+		<img>d68a18275455ae3eaa2c291eebb46e6d.jpg</img>
+		<text>
+			<description>
+				<![CDATA[Knack den Code für das Zahlenschloss!]]>
+			</description>
+			<note>
+				<![CDATA[]]>
+			</note>
+		</text>
+		<minAnsers>0</minAnsers>
+		<code>d68a18275455ae3eaa2c291eebb46e6d</code>
+	</node>
+</nodelist>
